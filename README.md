@@ -1,24 +1,3 @@
-# vue-ar-temp
-
-## Project setup
-```
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
-
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://github.com/LittleCCB">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleCCB&show_icons=true"/>
+</a>
